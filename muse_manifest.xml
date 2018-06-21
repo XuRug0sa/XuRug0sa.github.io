@@ -1,0 +1,137 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="baidu.com" resolutions="1x" timestamp="1529501193020">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3801085269" ref="index"/>
+    <file name="nomq_index.css" crc="341015701" ref="index"/>
+    <file name="untitled-3.css" crc="4164544212" ref="untitled-3"/>
+    <file name="nomq_untitled-3.css" crc="418265004" ref="untitled-3"/>
+    <file name="untitled-5.css" crc="3816296816" ref="untitled-5"/>
+    <file name="nomq_untitled-5.css" crc="159185470" ref="untitled-5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-3:untitled-5"/>
+    <file name="museutils.js" crc="163421577" ref="index:untitled-3:untitled-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-3:untitled-5"/>
+    <file name="museconfig.js" crc="168988563" ref="index:untitled-3:untitled-5"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:untitled-3:untitled-5"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:untitled-3:untitled-5"/>
+    <file name="require.js" crc="244322403" ref="index:untitled-3:untitled-5"/>
+    <file name="webpro.js" crc="3848665353" ref="untitled-3"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="untitled-3"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="untitled-3"/>
+    <file name="touchswipe.js" crc="404375771" ref="untitled-3"/>
+  </folder>
+  <folder name="images">
+    <file name="主页.jpg" crc="515010594" seo="true" ref="index"/>
+    <file name="title.jpg" crc="3780244530" seo="true" ref="index"/>
+    <file name="my resume.png" crc="3865280033" seo="true" ref="index"/>
+    <file name="u207-8.png" crc="4167792858" ref="index"/>
+    <file name="u207-82.png" crc="4167792858" ref="index"/>
+    <file name="主页588x697.jpg" crc="4041982665" seo="true" ref="index"/>
+    <file name="u207-83.png" crc="215817939" ref="index"/>
+    <file name="主页441x523.jpg" crc="4270397875" seo="true" ref="index"/>
+    <file name="u207-84.png" crc="4078193239" ref="index"/>
+    <file name="主页360x427.jpg" crc="4119013354" seo="true" ref="index"/>
+    <file name="u207-85.png" crc="215296866" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:untitled-3:untitled-5"/>
+    <file name="巨灵神-01.jpg" crc="106723173" seo="true" ref="untitled-3"/>
+    <file name="shuimu.jpg" crc="424197350" seo="true" ref="untitled-3"/>
+    <file name="蝴蝶.jpg" crc="301459839" seo="true" ref="untitled-3"/>
+    <file name="纹样-01.jpg" crc="504848524" seo="true" ref="untitled-3"/>
+    <file name="dfr.jpg" crc="3901399308" seo="true" ref="untitled-3"/>
+    <file name="作品1.jpg" crc="393752517" seo="true" ref="untitled-3"/>
+    <file name="巨灵神-01-crop-u1417.jpg" crc="527664014" ref="untitled-3"/>
+    <file name="shuimu-crop-u1397.jpg" crc="4254308814" ref="untitled-3"/>
+    <file name="蝴蝶60x47.jpg" crc="4062632663" seo="true" ref="untitled-3"/>
+    <file name="纹样-01-crop-u1437.jpg" crc="3800265888" ref="untitled-3"/>
+    <file name="dfr-crop-u1377.jpg" crc="268252498" ref="untitled-3"/>
+    <file name="作品1-crop-u1317.jpg" crc="459761021" ref="untitled-3"/>
+    <file name="loading.gif" crc="3815509949" ref="untitled-3"/>
+    <file name="巨灵神-01-crop-u14172.jpg" crc="527664014" ref="untitled-3"/>
+    <file name="shuimu-crop-u13972.jpg" crc="4254308814" ref="untitled-3"/>
+    <file name="纹样-01-crop-u14372.jpg" crc="3800265888" ref="untitled-3"/>
+    <file name="dfr-crop-u13772.jpg" crc="268252498" ref="untitled-3"/>
+    <file name="作品1-crop-u13172.jpg" crc="459761021" ref="untitled-3"/>
+    <file name="巨灵神-01-crop-u14173.jpg" crc="527664014" ref="untitled-3"/>
+    <file name="shuimu-crop-u13973.jpg" crc="4254308814" ref="untitled-3"/>
+    <file name="纹样-01-crop-u14373.jpg" crc="3800265888" ref="untitled-3"/>
+    <file name="dfr-crop-u13773.jpg" crc="268252498" ref="untitled-3"/>
+    <file name="作品1-crop-u13173.jpg" crc="459761021" ref="untitled-3"/>
+    <file name="webwxgetmsgimg1.jpg" crc="3864382958" seo="true" ref="untitled-5"/>
+    <file name="webwxgetmsgimg.png" crc="314618963" seo="true" ref="untitled-5"/>
+    <file name="u545-10.png" crc="194222287" ref="untitled-5"/>
+    <file name="分组.png" crc="3967617896" seo="true" ref="untitled-5"/>
+    <file name="u574-7.png" crc="4264580744" ref="untitled-5"/>
+    <file name="u577-4.png" crc="445221211" ref="untitled-5"/>
+    <file name="u591-5.png" crc="4056405862" ref="untitled-5"/>
+    <file name="u594-4.png" crc="3994299840" ref="untitled-5"/>
+    <file name="u597-5.png" crc="512765734" ref="untitled-5"/>
+    <file name="u600-4.png" crc="3994881924" ref="untitled-5"/>
+    <file name="u603-5.png" crc="168110526" ref="untitled-5"/>
+    <file name="u609-4.png" crc="448362408" ref="untitled-5"/>
+    <file name="u612-5.png" crc="268838908" ref="untitled-5"/>
+    <file name="my profile.png" crc="4252983535" seo="true" ref="untitled-5"/>
+    <file name="分组2.png" crc="3824440655" seo="true" ref="untitled-5"/>
+    <file name="u545-102.png" crc="194222287" ref="untitled-5"/>
+    <file name="u574-72.png" crc="4264580744" ref="untitled-5"/>
+    <file name="u577-42.png" crc="445221211" ref="untitled-5"/>
+    <file name="u591-52.png" crc="4056405862" ref="untitled-5"/>
+    <file name="u594-42.png" crc="3994299840" ref="untitled-5"/>
+    <file name="u597-52.png" crc="512765734" ref="untitled-5"/>
+    <file name="u600-42.png" crc="3994881924" ref="untitled-5"/>
+    <file name="u603-52.png" crc="168110526" ref="untitled-5"/>
+    <file name="u609-42.png" crc="448362408" ref="untitled-5"/>
+    <file name="u612-52.png" crc="268838908" ref="untitled-5"/>
+    <file name="u545-103.png" crc="194222287" ref="untitled-5"/>
+    <file name="u574-73.png" crc="4264580744" ref="untitled-5"/>
+    <file name="u577-43.png" crc="445221211" ref="untitled-5"/>
+    <file name="u591-53.png" crc="4056405862" ref="untitled-5"/>
+    <file name="u594-43.png" crc="3994299840" ref="untitled-5"/>
+    <file name="u597-53.png" crc="512765734" ref="untitled-5"/>
+    <file name="u600-43.png" crc="3994881924" ref="untitled-5"/>
+    <file name="u603-53.png" crc="168110526" ref="untitled-5"/>
+    <file name="u609-43.png" crc="448362408" ref="untitled-5"/>
+    <file name="u612-53.png" crc="268838908" ref="untitled-5"/>
+    <file name="分组621x444.png" crc="202448069" seo="true" ref="untitled-5"/>
+    <file name="u545-104.png" crc="194222287" ref="untitled-5"/>
+    <file name="u574-74.png" crc="4264580744" ref="untitled-5"/>
+    <file name="u577-44.png" crc="445221211" ref="untitled-5"/>
+    <file name="u591-54.png" crc="4056405862" ref="untitled-5"/>
+    <file name="u594-44.png" crc="3994299840" ref="untitled-5"/>
+    <file name="u597-54.png" crc="512765734" ref="untitled-5"/>
+    <file name="u600-44.png" crc="3994881924" ref="untitled-5"/>
+    <file name="u603-54.png" crc="168110526" ref="untitled-5"/>
+    <file name="u609-44.png" crc="448362408" ref="untitled-5"/>
+    <file name="u612-54.png" crc="268838908" ref="untitled-5"/>
+    <file name="分组569x407.png" crc="123954987" seo="true" ref="untitled-5"/>
+    <file name="webwxgetmsgimg772x644.png" crc="3944212291" seo="true" ref="untitled-5"/>
+    <file name="u545-105.png" crc="194222287" ref="untitled-5"/>
+    <file name="u574-75.png" crc="4264580744" ref="untitled-5"/>
+    <file name="u577-45.png" crc="445221211" ref="untitled-5"/>
+    <file name="u591-55.png" crc="4056405862" ref="untitled-5"/>
+    <file name="u594-45.png" crc="3994299840" ref="untitled-5"/>
+    <file name="u597-55.png" crc="512765734" ref="untitled-5"/>
+    <file name="u600-45.png" crc="3994881924" ref="untitled-5"/>
+    <file name="u603-55.png" crc="168110526" ref="untitled-5"/>
+    <file name="u609-45.png" crc="448362408" ref="untitled-5"/>
+    <file name="u612-55.png" crc="268838908" ref="untitled-5"/>
+    <file name="分组380x271.png" crc="4145022196" seo="true" ref="untitled-5"/>
+    <file name="分组418x298.png" crc="494568" seo="true" ref="untitled-5"/>
+    <file name="webwxgetmsgimg643x536.png" crc="3777180516" seo="true" ref="untitled-5"/>
+    <file name="u545-106.png" crc="194222287" ref="untitled-5"/>
+    <file name="u574-76.png" crc="4264580744" ref="untitled-5"/>
+    <file name="u577-46.png" crc="445221211" ref="untitled-5"/>
+    <file name="u591-56.png" crc="4056405862" ref="untitled-5"/>
+    <file name="u594-46.png" crc="3994299840" ref="untitled-5"/>
+    <file name="u597-56.png" crc="512765734" ref="untitled-5"/>
+    <file name="u600-46.png" crc="3994881924" ref="untitled-5"/>
+    <file name="u603-56.png" crc="168110526" ref="untitled-5"/>
+    <file name="u609-46.png" crc="448362408" ref="untitled-5"/>
+    <file name="u612-56.png" crc="268838908" ref="untitled-5"/>
+    <file name="分组234x167.png" crc="4182151724" seo="true" ref="untitled-5"/>
+    <file name="分组313x223.png" crc="3992378954" seo="true" ref="untitled-5"/>
+  </folder>
+  <file name="index.html" crc="3775976728" seo="true" mt="1529500640120" redirect="true"/>
+  <file name="untitled-3.html" crc="103651100" seo="true" mt="1529501014645" redirect="true"/>
+  <file name="untitled-5.html" crc="4263097075" seo="true" mt="1529501056820" redirect="true"/>
+</manifest>
